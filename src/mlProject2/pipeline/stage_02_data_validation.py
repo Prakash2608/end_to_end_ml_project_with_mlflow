@@ -4,7 +4,7 @@ from mlProject2 import logger
 
 
 
-STAGE_NAME = "Data validation stage"
+STAGE_NAME = "Data Validation stage"
 
 class DataValidationTrainingPipeline:
     def __init__(self):
