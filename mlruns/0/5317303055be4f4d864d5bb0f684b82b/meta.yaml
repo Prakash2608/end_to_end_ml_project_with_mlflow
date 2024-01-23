@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/praka/krish_naik/end_to_end_ml_project_with_mlflow/mlruns/0/5317303055be4f4d864d5bb0f684b82b/artifacts
+end_time: 1705994790158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5317303055be4f4d864d5bb0f684b82b
+run_name: enchanting-snipe-677
+run_uuid: 5317303055be4f4d864d5bb0f684b82b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705994786732
+status: 3
+tags: []
+user_id: praka

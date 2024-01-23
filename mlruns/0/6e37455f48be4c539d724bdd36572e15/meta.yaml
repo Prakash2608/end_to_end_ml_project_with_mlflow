@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/praka/krish_naik/end_to_end_ml_project_with_mlflow/mlruns/0/6e37455f48be4c539d724bdd36572e15/artifacts
+end_time: 1705994832962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e37455f48be4c539d724bdd36572e15
+run_name: worried-hound-311
+run_uuid: 6e37455f48be4c539d724bdd36572e15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705994829531
+status: 3
+tags: []
+user_id: praka

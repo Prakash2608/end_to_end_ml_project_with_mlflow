@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/praka/krish_naik/end_to_end_ml_project_with_mlflow/mlruns/0/67f70e75733449ab841321b41ab9f9f4/artifacts
+end_time: 1705994782964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67f70e75733449ab841321b41ab9f9f4
+run_name: colorful-seal-297
+run_uuid: 67f70e75733449ab841321b41ab9f9f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705994779405
+status: 3
+tags: []
+user_id: praka
